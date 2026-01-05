@@ -1,0 +1,91 @@
+🔹 String Logical Programs
+
+Reverse a string
+
+Reverse each word in a sentence
+
+Check palindrome string
+
+Find duplicate characters
+
+Remove duplicate characters
+
+Count character occurrence
+
+Find first non-repeating character
+
+Check anagram
+
+Find longest word in a sentence
+
+Replace spaces with special character
+
+🔹 Number Logical Programs
+
+Reverse a number
+
+Check palindrome number
+
+Check prime number
+
+Print prime numbers in a range
+
+Check Armstrong number
+
+Find factorial of a number
+
+Fibonacci series
+
+Swap two numbers without third variable
+
+🔹 Array Logical Programs
+
+Find largest & smallest element
+
+Find second largest element
+
+Sort array (without built-in method)
+
+Find duplicate elements
+
+Remove duplicates from array
+
+Find missing number
+
+Find common elements in two arrays
+
+Move zeros to end
+
+🔹 Collection Logical Programs
+
+Remove duplicates using Set
+
+Sort HashMap by key
+
+Sort HashMap by value
+
+Count frequency using HashMap
+
+Iterate Map in different ways
+
+🔹 Pattern Programs
+
+Star triangle pattern
+
+Inverted triangle pattern
+
+Pyramid pattern
+
+Number patterns
+
+🔹 Misc / Real-Time Logic
+
+Find occurrence of words in a sentence
+
+Check leap year
+
+Find even/odd numbers
+
+Validate email format (basic logic)
+
+Find duplicate words in a string
