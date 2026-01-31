@@ -1,4 +1,4 @@
-//break
+/*//break
 for(let i:number=0;i<=10;i++)
 {
     if(i==7)
@@ -22,4 +22,13 @@ while(i<=10)
         console.log(i);
     }
     i++;
+}*/
+for(let i:number=1;i<=10;i++)
+{
+    if(i%2==0)
+    {
+        continue;
+    }
+    console.log(i);
+    
 }
