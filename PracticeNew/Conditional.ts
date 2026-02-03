@@ -86,7 +86,7 @@ if(num%10==0&&num%5==0)
     console.log("Number is multplay of 5 and 10 ",num);
 } */
 //check if charcter is vowel or consolnent
-let char:string="E";
+/* let char:string="E";
 if(char>="a"&&char<="z")
 {
     
@@ -110,4 +110,93 @@ else if(char>="A"&&char<="Z")
     {
         console.log("charcter is  Upper case consonent ",char);
     }
+} */
+//check number is divisibal by 2 and 3
+/* let num:number=6;
+if(num%2==0 && num%3==0)
+{
+    console.log("Number is divisibal by 2 and 3 ",num);
 }
+else{
+    console.log("Number is not divisibal by 2 and 3 ",num);
+} */
+//switch case
+// Print the corresponding month name for a given month number
+/* let num:number=13;
+switch(num)
+{
+    case 1 : console.log("jan");break;
+    case 2 : console.log("feb");break;
+    case 3 : console.log("mar");break;
+    case 4 : console.log("apr");break;
+    case 5 : console.log("may");break;
+    case 6 : console.log("june");break;
+    case 7 : console.log("july");break;
+    case 8 : console.log("aug");break;
+    case 9 : console.log("sep");break;
+    case 10 : console.log("oct");break;
+    case 11 : console.log("nov");break;
+    case 12 : console.log("dec");break;
+    default: console.log("Enter correct number");
+
+} */
+//Perform basic arithmetic operations based on user input.
+/* let num1:number=10;
+let num2:number=20;
+let opration:string='***';
+let res;
+switch(opration)
+{ 
+    case '+':   res=num1+num2;
+                console.log(res);
+                break;
+    case '-':  res=num1-num2;
+                console.log(res);
+                break;
+    case '*':  res=num1*num2;
+                console.log(res);
+                break;
+    case '%':  res=num1%num2;
+                console.log(res);
+                break;            
+    case '/':  res=num1/num2;
+                console.log(res);
+                break;            
+    case '**':  res=num1**num2;
+                console.log(res);
+                break;
+
+    default: console.log("Please enter valid operation ");
+
+
+
+} */
+//Print the season based on the month number.
+/* let num:number=7;
+switch(num)
+{ 
+    case 11:
+    case 12:
+    case 1:
+    case 2:
+        console.log("Winter");
+        break;
+    
+    case 3:    
+    case 4:
+    case 5:
+    case 6:
+        console.log("Summer");
+        break;
+    case 7:
+    case 8:
+    case 9:
+    case 10:
+        console.log("Monsoon");
+        break;
+    default:
+        console.log("Please enter valid moth number ");
+    
+
+}
+ */
