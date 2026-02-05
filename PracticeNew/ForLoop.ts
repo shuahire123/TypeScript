@@ -80,7 +80,7 @@ console.log(`Sum of Digits of Number ${num} = ${sum}`); */
     }
 } */
 //18. Calculate the sum of all even numbers from 1 to N. 
-let num:number=500;
+/* let num:number=500;
 let sum:number=0;
 for(let i=1;i<=num;i++)
 {
@@ -89,4 +89,4 @@ for(let i=1;i<=num;i++)
         sum+=i;
     }
 }
-console.log(`sum of even num between 1 to ${num} is ${sum}`);
+console.log(`sum of even num between 1 to ${num} is ${sum}`); */
